@@ -1,0 +1,142 @@
+<style type="text/css">
+
+body {
+font-family: Verdana, Arial, Helvetica, "sans-serif";
+width:750px;
+margin:0 auto;
+margin-top:30px;
+background-color:#A4A4A4;
+}
+
+
+/* ----- HEADER ----- */
+
+
+
+#header {
+padding: 15px 20px 0px 20px;
+font-family: Verdana, Arial, Helvetica, "sans-serif";
+font-weight: bold;
+    font-size: 20px;
+width:750px;
+height:20px;
+background-color:#ffffff;
+text-align: center;
+}
+
+#subheader {
+padding: 5px 20px 15px 20px;
+font-family: Verdana, Arial, Helvetica, "sans-serif";
+font-weight: normal;
+    font-size: 10px;
+width:750px;
+height:15px;
+background-color:#ffffff;
+text-align: center;
+}
+
+
+
+/* ----- NAVIGATION ----- */
+
+
+
+#navigation {
+padding: 5px 20px 5px 20px;
+font-family: Verdana, Arial, Helvetica, "sans-serif";
+    font-size: 12px;
+width:750px;
+height:15px;
+background-color:#7c7c7c;
+text-align: center;
+
+
+
+/*margin-top:10px;*/
+}
+
+
+/* ----- MAIN CONTENT ----- */
+
+
+
+#content { 
+font-family: Verdana, Arial, Helvetica, "sans-serif";
+
+font-size: 12px;
+width:750px;
+padding: 20px 20px 0px 20px;
+min-height:380px; /* for modern browsers */
+height:auto !important; /* for modern browsers */
+height:450px; /* for IE5.x and IE6 */background-color:#ffffff;
+/*margin-top:10px;*/
+
+
+
+
+}
+
+
+
+
+/* ----- FOOTER ----- */
+
+
+
+#footer {
+padding: 0px 20px 0px 20px; 
+width:750px;
+height:20px;
+background-color:#ffffff;
+/*margin-top:10px;*/
+}
+
+
+
+
+
+
+
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+li
+{
+display:inline;
+margin:35px;
+padding:0;
+}
+
+
+
+a,  a:link {
+  color:  #000000;
+  font-weight: bold;
+  text-decoration: none;
+}
+/* Sets the style for visited links. */
+a:visited {
+  color:  #000000;
+  font-weight: bold;
+  text-decoration: none;
+}
+/* Sets the style for links on mouseover. */
+a:hover {
+ 
+font-weight:bold;
+ color:  #ffffff;
+}
+/* Sets the style for a link that has focus. */
+a:focus {
+  color: #000000;
+}
+/* Sets the style for a link that is being activated/clicked. */
+a:active {
+  color:  #000000;
+}
+
+
+
